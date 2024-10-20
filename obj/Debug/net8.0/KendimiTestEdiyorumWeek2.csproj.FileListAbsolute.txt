@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/bin/Debug/net8.0/KendimiTestEdiyorumWeek2
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/bin/Debug/net8.0/KendimiTestEdiyorumWeek2.deps.json
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/bin/Debug/net8.0/KendimiTestEdiyorumWeek2.runtimeconfig.json
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/bin/Debug/net8.0/KendimiTestEdiyorumWeek2.dll
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/bin/Debug/net8.0/KendimiTestEdiyorumWeek2.pdb
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/KendimiTestEdiyorumWeek2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/KendimiTestEdiyorumWeek2.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/KendimiTestEdiyorumWeek2.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/KendimiTestEdiyorumWeek2.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/KendimiTestEdiyorumWeek2.dll
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/refint/KendimiTestEdiyorumWeek2.dll
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/KendimiTestEdiyorumWeek2.pdb
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/KendimiTestEdiyorumWeek2.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/KendimiTestEdiyorumWeek2/KendimiTestEdiyorumWeek2/obj/Debug/net8.0/ref/KendimiTestEdiyorumWeek2.dll
